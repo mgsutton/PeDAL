@@ -1,0 +1,28 @@
+<RCC>
+  <qresource prefix="/">
+    <file>./res/Collapse_16x.png</file>
+    <file>./res/Copy_16x.png</file>
+    <file>./res/Cut_16x.png</file>
+    <file>./res/Document_16x.png</file>
+    <file>./res/Expand_16x.png</file>
+    <file>./res/FindDown_16x.png</file>
+    <file>./res/FindinFiles_16x.png</file>
+    <file>./res/FindNext_16x.png</file>
+    <file>./res/FindPrevious_16x.png</file>
+    <file>./res/FindResults_16x.png</file>
+    <file>./res/HTMLFile_16x.png</file>
+    <file>./res/NewFile_16x.png</file>
+    <file>./res/OpenFile_16x.png</file>
+    <file>./res/Paste_16x.png</file>
+    <file>./res/Print_16x.png</file>
+    <file>./res/Redo_16x.png</file>
+    <file>./res/ReplaceAll_16x.png</file>
+    <file>./res/Save_16x.png</file>
+    <file>./res/SaveAll_16x.png</file>
+    <file>./res/SaveAs_16x.png</file>
+    <file>./res/Undo_16x.png</file>
+    <file>./res/ZoomIn_16x.png</file>
+    <file>./res/ZoomOut_16x.png</file>
+    <file>./res/ZoomToFit_16x.png</file>
+  </qresource>
+</RCC>
